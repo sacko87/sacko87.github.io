@@ -18,13 +18,13 @@ I'll get back to you on this.
 
 ##### Publications
 
-<span class="authors"><span class="me">Saxon, J.T.</span>, Bordbar, B. and Akehurst, D.H.</span>, 2015, July. Opening the black-box of model transformation. In European Conference on Modelling Foundations and Applications (pp. 171-186). Springer, Cham.
+<span class="authors"><span class="me">Saxon, J.T.</span>, Bordbar, B. and Akehurst, D.H.</span>, <span class="year">2015</span>, July. <strong>Opening the black-box of model transformation.</strong> In European Conference on Modelling Foundations and Applications (pp. 171-186). Springer, Cham.
 
-<span class="authors"><span class="me">Saxon, J.T.</span>, Bordbar, B. and Harrison, K.</span>, 2015. Introspecting for RSA Key Material to Assist Intrusion Detection. IEEE Cloud Computing, 2(5), pp.30-38.
+<span class="authors"><span class="me">Saxon, J.T.</span>, Bordbar, B. and Harrison, K.</span>, <span class="year">2015</span>. <strong>Introspecting for RSA Key Material to Assist Intrusion Detection.</strong> IEEE Cloud Computing, 2(5), pp.30-38.
 
-<span class="authors"><span class="me">Saxon, J.T.</span>, Bordbar, B. and Harrison, K.</span>, 2015, March. Efficient Retrieval of Key Material for Inspecting Potentially Malicious Traffic in the Cloud. In Cloud Engineering (IC2E), 2015 IEEE International Conference on (pp. 155-164). IEEE.
+<span class="authors"><span class="me">Saxon, J.T.</span>, Bordbar, B. and Harrison, K.</span>, <span class="year">2015</span>, March. <strong>Efficient Retrieval of Key Material for Inspecting Potentially Malicious Traffic in the Cloud.</strong> In Cloud Engineering (IC2E), 2015 IEEE International Conference on (pp. 155-164). IEEE.
 
-<span class="authors">Shaw, A.L., Bordbar, B., <span class="me">Saxon, J.T.</span>, Harrison, K. and Dalton, C.I.</span>, 2014, March. Forensic virtual machines: dynamic defence in the cloud via introspection. In Cloud Engineering (IC2E), 2014 IEEE International Conference on (pp. 303-310). IEEE.
+<span class="authors">Shaw, A.L., Bordbar, B., <span class="me">Saxon, J.T.</span>, Harrison, K. and Dalton, C.I.</span>, <span class="year">2014</span>, March. <strong>Forensic virtual machines: dynamic defence in the cloud via introspection.</strong> In Cloud Engineering (IC2E), 2014 IEEE International Conference on (pp. 303-310). IEEE.
 
 #### MSC Computer Security <span class="date pull-right">Oct 2011 &mdash; Sep 2012</span>
 
