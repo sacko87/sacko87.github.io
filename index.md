@@ -22,7 +22,7 @@ I'll get back to you on this.
 
 <span class="authors"><span class="me">Saxon, J.T.</span>, Bordbar, B. and Harrison, K.</span>, 2015. Introspecting for RSA Key Material to Assist Intrusion Detection. IEEE Cloud Computing, 2(5), pp.30-38.
 
-<span class="authors"><span class="me">Saxon, J.T.</span>, Bordbar, B. and Harrison, K.</span></span>, 2015, March. Efficient Retrieval of Key Material for Inspecting Potentially Malicious Traffic in the Cloud. In Cloud Engineering (IC2E), 2015 IEEE International Conference on (pp. 155-164). IEEE.</span></span>
+<span class="authors"><span class="me">Saxon, J.T.</span>, Bordbar, B. and Harrison, K.</span>, 2015, March. Efficient Retrieval of Key Material for Inspecting Potentially Malicious Traffic in the Cloud. In Cloud Engineering (IC2E), 2015 IEEE International Conference on (pp. 155-164). IEEE.
 
 <span class="authors">Shaw, A.L., Bordbar, B., <span class="me">Saxon, J.T.</span>, Harrison, K. and Dalton, C.I.</span>, 2014, March. Forensic virtual machines: dynamic defence in the cloud via introspection. In Cloud Engineering (IC2E), 2014 IEEE International Conference on (pp. 303-310). IEEE.
 
