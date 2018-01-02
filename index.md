@@ -2,7 +2,15 @@
 layout: default
 title: I'm Dr John T. Saxon.
 ---
-# Hi, my name is John Saxon.
+<h1 class="hidden-print">Hi, I'm Dr John T. Saxon.</h1>
+<h1 class="visible-print-block">Dr John T. Saxon</h1>
+
+<div class="hidden-print">
+  <p>This is basically another personal online presence that allows people to commit identity theft.</p>
+  <p>There is quite a lot here for a regular web-page so here's two shortcuts: <a href="#education">What I have learnt</a> and <a href="#experience">where did I apply it</a>?
+</div>
+
+## Profile
 
 I am a self-motivated and competent software engineer. The mixture of academic and industry work has enabled me to break down problems to design software such that it is extensible and future proof. It has also provided me with the skills to analyse technologies and languages quickly to see what is suitable for individual tasks.
 
