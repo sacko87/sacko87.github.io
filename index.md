@@ -7,6 +7,7 @@ title: I'm Dr John T. Saxon.
 
 <div class="hidden-print">
   <p>This is basically another personal online presence that allows people to commit identity theft.</p>
+  <p>This is also my CV so you can print it. It is only what I'd send you (minus this section, and the "Hi, I'm").</p>
   <p>There is quite a lot here for a regular web-page so here's three questions:
     <ul>
       <li><a href="#profile">Who am I?</a></li>
@@ -15,7 +16,6 @@ title: I'm Dr John T. Saxon.
     </ul>
   </p>
   <p>Oh, and I like running. It's fun.</p>
-  <p>This is essentially a CV so you can print it, it is only what I'd send you (minus this section, and the "Hi, I'm").</p>
 </div>
 
 ## Profile
