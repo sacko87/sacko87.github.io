@@ -7,7 +7,7 @@ title: I'm Dr John T. Saxon.
 
 <div class="hidden-print">
   <p>This is basically another personal online presence that allows people to commit identity theft.</p>
-  <p>There is quite a lot here for a regular web-page so here's two shortcuts: <a href="#education">What I have learnt</a> and <a href="#experience">where did I apply it</a>?
+  <p>There is quite a lot here for a regular web-page so here's two shortcuts: <a href="#education">What I have learnt</a> and <a href="#experience">where did I apply it</a>?</p>
 </div>
 
 ## Profile
