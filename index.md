@@ -14,6 +14,7 @@ title: I'm Dr John T. Saxon.
       <li><a href="#experience">Where have I applied that knowledge?</a></li>
     </ul>
   </p>
+  <p>Oh, and I like running. It's fun.</p>
 </div>
 
 ## Profile
