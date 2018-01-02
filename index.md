@@ -10,7 +10,7 @@ I am a self-motivated and competent software engineer. The mixture of academic a
 
 ### University of Birmingham, Birmingham, United Kingdom
 
-#### PhD in Computer Science <span class="date">Sep 2012 &mdash; Dec 2017</span>
+#### PhD in Computer Science <span class="date pull-right">Sep 2012 &mdash; Dec 2017</span>
 
 Representative on the Staff/Research Students Consultative Committee (SRSCC) for my first and third years. Representative for Teaching Assistants, on the Teaching Committee, for my third year.
 
@@ -26,13 +26,13 @@ I'll get back to you on this.
 
 <span class="authors">Shaw, A.L., Bordbar, B., <span class="me">Saxon, J.T.</span>, Harrison, K. and Dalton, C.I.</span>, 2014, March. Forensic virtual machines: dynamic defence in the cloud via introspection. In Cloud Engineering (IC2E), 2014 IEEE International Conference on (pp. 303-310). IEEE.
 
-#### MSC Computer Security <span class="date">Oct 2011 &mdash; Sep 2012</span>
+#### MSC Computer Security <span class="date pull-right">Oct 2011 &mdash; Sep 2012</span>
 
 My summer project involved a malformed network packet generation framework allowing me to perform a man-in-the-middle attack using crafted ARP packets.
 
 ### De Montfort University, Leicester, United Kingdom
 
-#### BSc Software Engineering <span class="date">Oct 2005 &mdash; Aug 2009</span>
+#### BSc Software Engineering <span class="date pull-right">Oct 2005 &mdash; Aug 2009</span>
 
 I was the first-year representative for the course.
 
@@ -49,26 +49,26 @@ My final year project involved transforming one programming language into anothe
 
 I am currently a freelance software developer.
 
-#### Progressive Access Ltd <span class="date">Apr 2016 &mdash; Present</span>
+#### Progressive Access Ltd <span class="date pull-right">Apr 2016 &mdash; Present</span>
 
 With this company I helped develop a generic workflow that enables users with visual impairments to read diagrams.
 This used a plethora of languages as each component was originally written as such. A key part of this work was to be able to integrate into a web service.
 
 ### University of Birmingham
 
-#### Senior Teaching Assistant <span class="date">Oct 2005 &mdash; Jun 2016</span>
+#### Senior Teaching Assistant <span class="date pull-right">Oct 2005 &mdash; Jun 2016</span>
 
 As teaching assistant, I further aided in students' development through small group tutorials, marking and demonstrating in labs. As a senior teaching assistant, I would plan tutorials and exercises, and manage other tutors to provide a consistent learning platform.
 
 I was awarded with the TA of the year for my second year of teaching.
 
-#### Demonstrator <span class="date">Jan 2012 &mdash; Apr 2012</span>
+#### Demonstrator <span class="date pull-right">Jan 2012 &mdash; Apr 2012</span>
 
 Demonstrating involved facilitating students' learning by helping them help themselves to solve any issues or bugs that arose from development.
 
 ### Worldwide Clinical Trials Inc.
 
-<h4>UNIX Software Engineer <span class="date">Oct 2009 &mdash; Sep 2011</span></h4>
+<h4>UNIX Software Engineer <span class="date pull-right">Oct 2009 &mdash; Sep 2011</span></h4>
 
 I was a co-business owner on a few of trials, this involved:
 
@@ -85,7 +85,7 @@ Additionally, a core member of an R&D team aiming to provide a web based Clinica
 
 ### Language Course Abroad Ltd
 
-#### Web Developer <span class="date">Aug 2007 &mdash; Aug 2008</span>
+#### Web Developer <span class="date pull-right">Aug 2007 &mdash; Aug 2008</span>
 
 This was my placement year for my undergraduate degree at De Montfort University.
 
