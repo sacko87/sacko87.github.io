@@ -39,6 +39,10 @@ span.authors span.me {
   color: #696;
 }
 
+span.title {
+  font-weight: 500; 
+}
+
 span.in {
   color: #aaa;
 }
