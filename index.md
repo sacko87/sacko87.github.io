@@ -7,8 +7,8 @@ title: I'm Dr John T. Saxon.
 
 <div class="hidden-print">
   <p>Another personal online presence that allows people to commit identity theft.</p>
-  <p>This is also my CV so you can print it. It is only what I'd send you (minus this section, and the "Hi, I'm").</p>
-  <p>There is quite a lot here for a regular web-page so here's three questions:
+  <p>This page is also my CV so you can print it. It is what I'd send if I applied for a job.</p>
+  <p>There is quite a lot here for a regular web-page so here are three questions:
     <ul>
       <li><a href="#profile">Who am I?</a></li>
       <li><a href="#education">What have I learnt and where did I learn it?</a></li>
@@ -20,7 +20,7 @@ title: I'm Dr John T. Saxon.
 
 ## Profile
 
-I am a self-motivated and competent software engineer. The mixture of academic and industry work has enabled me to break down problems to design software such that it is extensible and future proof. It has also provided me with the skills to analyse technologies and languages quickly to see what is suitable for individual tasks.
+I am a self-motivated and competent software engineer. The mixture of academic and industry work has enabled me to break down problems to design software such that it is extensible and future-proof. It has also provided me with the skills to analyse technologies and languages quickly to see what is suitable for individual tasks.
 
 ## Education
 
