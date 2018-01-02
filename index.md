@@ -15,6 +15,7 @@ title: I'm Dr John T. Saxon.
     </ul>
   </p>
   <p>Oh, and I like running. It's fun.</p>
+  <p>This is essentially a CV so you can print it, it is only what I'd send you (minus this section, and the "Hi, I'm").</p>
 </div>
 
 ## Profile
