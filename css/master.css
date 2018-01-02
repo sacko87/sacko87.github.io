@@ -27,7 +27,7 @@ h5 {
   margin-bottom: 1px;
 }
 
-h5 span.pull-right {
+span.date {
   color: #966;
 }
 
@@ -39,7 +39,7 @@ span.authors span.me {
   color: #696;
 }
 
-div.conference {
+span.in {
   color: #aaa;
 }
 
