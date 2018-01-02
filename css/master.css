@@ -8,22 +8,14 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  border-bottom: 1px solid #777;
-}
-
-h2 {
-  border-bottom: 1px solid #999;
-}
-
-h3 {
   border-bottom: 1px solid #aaa;
 }
 
-h4 {
+h2 {
   border-bottom: 1px solid #ccc;
 }
 
-h5 {
+h3 {
   border-bottom: 1px solid #eee;
 }
 
@@ -32,15 +24,15 @@ h3, h4, h5 {
 }
 
 span.year {
-  color: #966;
+  color: #744;
 }
 
 span.authors {
-  color: #888;
+  color: #555;
 }
 
 span.authors span.me {
-  color: #696;
+  color: #474;
 }
 
 span.title {
@@ -48,7 +40,7 @@ span.title {
 }
 
 span.in {
-  color: #aaa;
+  color: #888;
 }
 
 div.icons {
