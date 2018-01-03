@@ -89,6 +89,6 @@ div.previous div.col-md-6:nth-child(n+2) div.block:hover {
   }
   
   div.icons a[href]:after {
-    content: ": " attr(href) 
+    content: " " attr(href) 
   }
 }
