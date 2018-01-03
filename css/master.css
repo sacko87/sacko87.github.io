@@ -82,7 +82,7 @@ div.previous div.col-md-6:nth-child(n+2) div.block:hover {
 }
 
 @media print {
-  div.icons i {
+  div.icons a[href] {
     display: block;
     text-align: left;
   }
