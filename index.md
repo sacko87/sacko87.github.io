@@ -46,7 +46,7 @@ I was the year's representative on the Staff/Research Students Consultative Comm
 
 During my summer project, I developed a malformed network packet generation framework that allowed me to craft the necessary ARP packets required to perform a man-in-the-middle attack.
 
-### De Montfort University, Leicester, United Kingdom
+<h3 style="page-break-before: always;">De Montfort University, Leicester, United Kingdom</h3>
 
 #### BSc Software Engineering <span class="date pull-right">Oct 2005 &mdash; Aug 2009</span>
 
