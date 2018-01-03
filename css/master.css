@@ -80,3 +80,14 @@ div.previous div.col-md-6:nth-child(n+2) div.block:hover {
 /*div.previous div.col-md-6:nth-child(n+2):hover {*/
   opacity: 1;
 }
+
+@media print {
+  div.icons i {
+    display: block;
+    text-align: left;
+  }
+  
+  div.icons a[href]:after {
+    content: ": " attr(href) 
+  }
+}
