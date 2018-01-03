@@ -28,23 +28,23 @@ I am a self-motivated and competent software engineer. The mixture of academic a
 
 #### PhD in Computer Science <span class="date pull-right">Sep 2012 &mdash; Dec 2017</span>
 
-Representative on the Staff/Research Students Consultative Committee (SRSCC) for my first and third years. Representative for Teaching Assistants, on the Teaching Committee, for my third year.
+My research was primarily looking at how we can derive confidence in black-box processes using previous executions. We used traceability as a mechanism to see what was occurring within these black-boxes at runtime and used it as a basis for learning.
 
-I'll get back to you on this.
+I was the year's representative on the Staff/Research Students Consultative Committee (SRSCC) for my first and third years. Additionally, I was the representative for Teaching Assistants, on the Teaching Committee, for my third year.
 
 ##### Publications
 
 <span class="authors"><span class="me">Saxon, J.T.</span>, Bordbar, B. and Harrison, K.</span>, <span class="year">2015</span>. <span class="title">Introspecting for RSA Key Material to Assist Intrusion Detection.</span> <span class="in">IEEE Cloud Computing</span>, 2(5), pp.30-38. 
 
-<span class="authors"><span class="me">Saxon, J.T.</span>, Bordbar, B. and Akehurst, D.H.</span>, <span class="year">2015</span>, July. <span class="title">Opening the black-box of model transformation.</span> In <span class="in">European Conference on Modelling Foundations and Applications</span> (pp. 171-186). Springer, Cham. <a href="/pdf/2015.2.pdf" title="Download PDF"><i class="fa fa-file-pdf-o"></i></a>
+<span class="authors"><span class="me">Saxon, J.T.</span>, Bordbar, B. and Akehurst, D.H.</span>, <span class="year">2015</span>, July. <span class="title">Opening the black-box of model transformation.</span> In <span class="in">European Conference on Modelling Foundations and Applications</span> (pp. 171-186). Springer, Cham. <a href="/pdf/2015.2.pdf" class="hidden-print" title="Download PDF"><i class="fa fa-file-pdf-o"></i></a>
 
-<span class="authors"><span class="me">Saxon, J.T.</span>, Bordbar, B. and Harrison, K.</span>, <span class="year">2015</span>, March. <span class="title">Efficient Retrieval of Key Material for Inspecting Potentially Malicious Traffic in the Cloud.</span> In <span class="in">Cloud Engineering (IC2E), 2015 IEEE International Conference on</span> (pp. 155-164). IEEE. <a href="/pdf/2015.1.pdf" title="Download PDF"><i class="fa fa-file-pdf-o"></i></a>
+<span class="authors"><span class="me">Saxon, J.T.</span>, Bordbar, B. and Harrison, K.</span>, <span class="year">2015</span>, March. <span class="title">Efficient Retrieval of Key Material for Inspecting Potentially Malicious Traffic in the Cloud.</span> In <span class="in">Cloud Engineering (IC2E), 2015 IEEE International Conference on</span> (pp. 155-164). IEEE. <a href="/pdf/2015.1.pdf" class="hidden-print" title="Download PDF"><i class="fa fa-file-pdf-o"></i></a>
 
-<span class="authors">Shaw, A.L., Bordbar, B., <span class="me">Saxon, J.T.</span>, Harrison, K. and Dalton, C.I.</span>, <span class="year">2014</span>, March. <span class="title">Forensic virtual machines: dynamic defence in the cloud via introspection.</span> In <span class="in">Cloud Engineering (IC2E), 2014 IEEE International Conference on</span> (pp. 303-310). IEEE. <a href="/pdf/2014.1.pdf" title="Download PDF"><i class="fa fa-file-pdf-o"></i></a>
+<span class="authors">Shaw, A.L., Bordbar, B., <span class="me">Saxon, J.T.</span>, Harrison, K. and Dalton, C.I.</span>, <span class="year">2014</span>, March. <span class="title">Forensic virtual machines: dynamic defence in the cloud via introspection.</span> In <span class="in">Cloud Engineering (IC2E), 2014 IEEE International Conference on</span> (pp. 303-310). IEEE. <a href="/pdf/2014.1.pdf" class="hidden-print" title="Download PDF"><i class="fa fa-file-pdf-o"></i></a>
 
 #### MSC Computer Security <span class="date pull-right">Oct 2011 &mdash; Sep 2012</span>
 
-My summer project involved a malformed network packet generation framework allowing me to perform a man-in-the-middle attack using crafted ARP packets.
+During my summer project, I developed a malformed network packet generation framework that allowed me to craft the necessary ARP packets required to perform a man-in-the-middle attack.
 
 ### De Montfort University, Leicester, United Kingdom
 
@@ -67,14 +67,13 @@ I am currently a freelance software developer.
 
 #### Progressive Access Ltd <span class="date pull-right">Apr 2016 &mdash; Present</span>
 
-With this company I helped develop a generic workflow that enables users with visual impairments to read diagrams.
-This used a plethora of languages as each component was originally written as such. A key part of this work was to be able to integrate into a web service.
+Working with this company to help develop a generic workflow that enables users with visual impairments to read diagrams. This process used a plethora of languages as each component had particular requirements. An important part of this work was to be able to integrate them into a web service.
 
 ### University of Birmingham
 
 #### Senior Teaching Assistant <span class="date pull-right">Oct 2005 &mdash; Jun 2016</span>
 
-As teaching assistant, I further aided in students' development through small group tutorials, marking and demonstrating in labs. As a senior teaching assistant, I would plan tutorials and exercises, and manage other tutors to provide a consistent learning platform.
+As a teaching assistant, I further aided in students' development through small group tutorials, marking and demonstrating in labs. As a senior teaching assistant, I would plan tutorials and exercises, and manage other tutors to provide a consistent learning platform.
 
 I was awarded with the TA of the year for my second year of teaching.
 
@@ -92,7 +91,7 @@ I was a co-business owner on a few of trials, this involved:
   * Documenting work required: specification, alpha-tests and linking them to requirements.
   * Risk assessment of work using Good Automated Manufacturing Practice standards (GAMP5).
 
-Additionally, a core member of an R&D team aiming to provide a web based Clinical Trial Management System (CTMS). Researching topics like:
+Additionally, a core member of an R&D team aiming to provide a web-based Clinical Trial Management System (CTMS). Researching topics like:
 
   * Service Orientated Architecture - How we could integrate legacy and third-party systems. 
   * Cloud Computing - How a private cloud would benefit the company.
@@ -103,15 +102,15 @@ Additionally, a core member of an R&D team aiming to provide a web based Clinica
 
 #### Web Developer <span class="date pull-right">Aug 2007 &mdash; Aug 2008</span>
 
-This was my placement year for my undergraduate degree at De Montfort University.
+My placement year for my undergraduate degree at De Montfort University.
 
 My core responsibilities were to:
 
   * Develop a bespoke booking system for their apartment block.
   * Maintain and develop their web infrastructure for advertising their language courses.
-  * Liaise with in-house translators to translate web content for static web-sites.
+  * Liaise with in-house translators to translate web content for static websites.
 
-All projects required a good level of web security, this is where my interest in the subject began.
+All projects required a reasonable level of web security; this is where my interest in the subject began.
 
 ### Non-subject specific work experience
 
