@@ -30,7 +30,7 @@ I am a self-motivated and competent software engineer. The mixture of academic a
 
 My research was primarily looking at how we can derive confidence in black-box processes using previous executions. We used traceability as a mechanism to see what was occurring within these black-boxes at runtime and used it as a basis for learning.
 
-I primarily used Python 2/3 and Java 7/8 to provide transformation engines that could give users confidence in a newly transformed source. It involved looking at and modifying alternative transformers to provide a comparison. Due to the nature of model-to-model transformation, it was essential to have an in-depth knowledge of generics, meta-modelling and reflection.
+I used Python 2/3 and Java 7/8 to provide transformation engines that could give users confidence in a newly transformed source. It involved looking at and modifying alternative transformers to provide a comparison. Due to the nature of model-to-model transformation, it was essential to have an in-depth knowledge of generics, meta-modelling and reflection.
 
 I was the year's representative on the Staff/Research Students Consultative Committee (SRSCC) for my first and third years. Additionally, I was the representative for Teaching Assistants, on the Teaching Committee, for my third year.
 
@@ -61,20 +61,20 @@ My final year project involved transforming one programming language into anothe
   * I had to learn two languages intimately to be able to do the transformation (Oberon-2 and Java).
   * This is where I got my interest in meta-programming and model-to-model transformation (using Haskell).
   
-Throughout my studies we concentrated mostly on C/CPP and then built on that knowledge with Java and object orientation.
+Throughout my studies I concentrated mostly on C/CPP and then built on that knowledge with Java and object orientation.
 
 ## Experience
 
 ### Consulting Software Engineer
 
-I am a freelance software developer, primarily back-end but I'm currently learning front-end development using JavaScript libraries/frameworks like React.
+I am a freelance software developer, primarily back-end, but I'm currently learning front-end development using JavaScript libraries/frameworks like React.
 
 #### Lead Software Engineer at Progressive Access Ltd <span class="date pull-right">Apr 2016 &mdash; Present</span>
 
 I was the lead software engineer for Progressive Access Ltd. 
 The company itself had no central office and had employees scattered around the globe. We used Stack and video-conferencing to manage workloads and to discuss/synchronise with each other.
 
-The primary goal of this Progressive Access is to provide a generic workflow that enables users with visual impairments to read diagrams using SVG. This process uses a plethora of languages as each component had particular requirements, but specifically C, Java, JavaScript, Kotlin and OCaml. An essential part of this work was to be able to integrate them into a web service using the Spring Framework and to formulate microservices to complete the interpretation of different domains in a scalable manner using Amazon Web Services. We were also investigating the provision of an external API to allow clients to send diagrams to us for recognition.
+The primary goal of Progressive Access Ltd is to provide a generic workflow that enables users with visual impairments to read diagrams using SVG and screen readers. This process uses a plethora of languages as each component had particular requirements, but specifically C, Java, JavaScript, Kotlin and OCaml. An essential part of this work was to be able to integrate them into a web service using the Spring Framework and to formulate microservices to complete the interpretation of different domains in a scalable manner using Amazon Web Services. We were also investigating the provision of an external API to allow clients to send diagrams to us for recognition.
 
 <h3 style="page-break-before: always;">University of Birmingham</h3>
 
@@ -98,7 +98,7 @@ I was a co-business owner on a few of trials, this involved:
   * Documenting work required: specification, alpha-tests and linking them to requirements.
   * Risk assessment of work using Good Automated Manufacturing Practice standards (GAMP5).
   
-The entire codebase was bespoke and written in the C programming language. I learnt a lot from my co-workers about writing large scale applications and the separations that should be present. This aided my move to being a core member of an R&D team aiming to provide a web-based Clinical Trial Management System (CTMS). Researching topics like:
+The entire codebase was bespoke and written in the C programming language. I learnt a lot from my co-workers about writing large-scale applications and the separations that should be present. This aided my move to being a core member of an R&D team aiming to provide a web-based Clinical Trial Management System (CTMS). Researching topics like:
 
   * Service Orientated Architecture - How we could integrate legacy and third-party systems (using ESBs). 
   * Cloud Computing - How a private cloud would benefit the company.
@@ -123,7 +123,7 @@ My work here involved the use of multiple versions of MySQL (4/5) and PHP (4/5),
 
 ### Language Summary
 
-I am proficent in C, CPP, Java 7/8 (learning 9 as we speak), SQL, JavaScript (learning TypeScript as we speak too), PHP (4/5) and Python 2/3. I'm always open to learning new languages as there is no one language that can do everything well!
+I am proficient in C, CPP, Java 7/8 (learning 9 as we speak), SQL, JavaScript (currently looking at TypeScript), PHP (4/5) and Python (2/3). I'm always open to learning new languages as no one language can do everything well!
 
 ### Non-subject specific work experience
 
