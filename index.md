@@ -125,6 +125,8 @@ My work here involved the use of multiple versions of MySQL (4/5) and PHP (4/5),
 
 I am proficient in C, CPP, Java 7/8 (learning 9 as we speak), SQL, JavaScript (currently looking at TypeScript), PHP (4/5) and Python (2/3). I'm always open to learning new languages as no one language can do everything well!
 
+I am currently learning Go to make a Github integration in my spare time.
+
 ### Non-subject specific work experience
 
 I have also previously been a purchase ledger clerk, a barman, and a sales assistant.
