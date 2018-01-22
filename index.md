@@ -44,7 +44,7 @@ I was the year's representative on the Staff/Research Students Consultative Comm
 
 <span class="authors">Shaw, A.L., Bordbar, B., <span class="me">Saxon, J.T.</span>, Harrison, K. and Dalton, C.I.</span>, <span class="year">2014</span>, March. <span class="title">Forensic virtual machines: dynamic defence in the cloud via introspection.</span> In <span class="in">Cloud Engineering (IC2E), 2014 IEEE International Conference on</span> (pp. 303-310). IEEE. <a href="/pdf/2014.1.pdf" class="hidden-print" title="Download PDF"><i class="fa fa-file-pdf-o"></i></a>
 
-<h4 style="page-break-before: always;">MSC Computer Security <span class="date pull-right">Oct 2011 &mdash; Sep 2012</span></h4>
+<h4 style="page-break-before: always;">MSc Computer Security <span class="date pull-right">Oct 2011 &mdash; Sep 2012</span></h4>
 
 During my summer project, I developed a malformed network packet generation framework that allowed me to craft the necessary ARP packets required to perform a man-in-the-middle attack. My framework used JavaScript, C, and the foreign function interface to allow an easily craftable packet to be placed on a low level device.
 
@@ -76,7 +76,7 @@ The company itself had no central office and had employees scattered around the 
 
 The primary goal of this Progressive Access is to provide a generic workflow that enables users with visual impairments to read diagrams using SVG. This process uses a plethora of languages as each component had particular requirements, but specifically C, Java, JavaScript, Kotlin and OCaml. An essential part of this work was to be able to integrate them into a web service using the Spring Framework and to formulate microservices to complete the interpretation of different domains in a scalable manner using Amazon Web Services. We were also investigating the provision of an external API to allow clients to send diagrams to us for recognition.
 
-### University of Birmingham
+<h3 style="page-break-before: always;">University of Birmingham</h3>
 
 #### Senior Teaching Assistant <span class="date pull-right">Oct 2005 &mdash; Jun 2016</span>
 
