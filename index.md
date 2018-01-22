@@ -30,6 +30,8 @@ I am a self-motivated and competent software engineer. The mixture of academic a
 
 My research was primarily looking at how we can derive confidence in black-box processes using previous executions. We used traceability as a mechanism to see what was occurring within these black-boxes at runtime and used it as a basis for learning.
 
+I primarily used Python 2/3 and Java 7/8 to provide transformation engines that could give users confidence in a newly transformed source. It involved looking at and modifying alternative transformers to provide a comparison. Due to the nature of model-to-model transformation, it was essential to have an in-depth knowledge of generics, meta-modelling and reflection.
+
 I was the year's representative on the Staff/Research Students Consultative Committee (SRSCC) for my first and third years. Additionally, I was the representative for Teaching Assistants, on the Teaching Committee, for my third year.
 
 ##### Publications
@@ -44,7 +46,7 @@ I was the year's representative on the Staff/Research Students Consultative Comm
 
 #### MSC Computer Security <span class="date pull-right">Oct 2011 &mdash; Sep 2012</span>
 
-During my summer project, I developed a malformed network packet generation framework that allowed me to craft the necessary ARP packets required to perform a man-in-the-middle attack.
+During my summer project, I developed a malformed network packet generation framework that allowed me to craft the necessary ARP packets required to perform a man-in-the-middle attack. My framework used JavaScript, C, and the foreign function interface to allow an easily craftable packet to be placed on a low level device.
 
 <h3 style="page-break-before: always;">De Montfort University, Leicester, United Kingdom</h3>
 
@@ -56,18 +58,23 @@ My course included a year’s placement at Language Courses Abroad Ltd (see Expe
 
 My final year project involved transforming one programming language into another:
 
-  * I had to learn two languages intimately to be able to do the transformation.
-  * This is where I got my interest in meta-programming and model-to-model transformation.
+  * I had to learn two languages intimately to be able to do the transformation (Oberon-2 and Java).
+  * This is where I got my interest in meta-programming and model-to-model transformation (using Haskell).
+  
+Throughout my studies we concentrated mostly on C/CPP and then built on that knowledge with Java and object orientation.
 
 ## Experience
 
 ### Consulting Software Engineer
 
-I am currently a freelance software developer.
+I am a freelance software developer, primarily back-end but I'm currently learning front-end development using JavaScript libraries/frameworks like React.
 
 #### Progressive Access Ltd <span class="date pull-right">Apr 2016 &mdash; Present</span>
 
-Working with this company to help develop a generic workflow that enables users with visual impairments to read diagrams. This process used a plethora of languages as each component had particular requirements. An important part of this work was to be able to integrate them into a web service.
+I was the lead software engineer for Progressive Access Ltd. 
+The company itself had no central office and had employees scattered around the globe. We used Stack and video-conferencing to manage workloads and to discuss/synchronise with each other.
+
+The primary goal of this Progressive Access is to provide a generic workflow that enables users with visual impairments to read diagrams using SVG. This process uses a plethora of languages as each component had particular requirements, but specifically C, Java, JavaScript, Kotlin and OCaml. An essential part of this work was to be able to integrate them into a web service using the Spring Framework and to formulate microservices to complete the interpretation of different domains in a scalable manner using Amazon Web Services. We were also investigating the provision of an external API to allow clients to send diagrams to us for recognition.
 
 ### University of Birmingham
 
@@ -90,12 +97,12 @@ I was a co-business owner on a few of trials, this involved:
   * Liaising with projects managers directly from requirements gathering to the deployment of software.
   * Documenting work required: specification, alpha-tests and linking them to requirements.
   * Risk assessment of work using Good Automated Manufacturing Practice standards (GAMP5).
+  
+The entire codebase was bespoke and written in the C programming language. I learnt a lot from my co-workers about writing large scale applications and the separations that should be present. This aided my move to being a core member of an R&D team aiming to provide a web-based Clinical Trial Management System (CTMS). Researching topics like:
 
-Additionally, a core member of an R&D team aiming to provide a web-based Clinical Trial Management System (CTMS). Researching topics like:
-
-  * Service Orientated Architecture - How we could integrate legacy and third-party systems. 
+  * Service Orientated Architecture - How we could integrate legacy and third-party systems (using electronic service buses). 
   * Cloud Computing - How a private cloud would benefit the company.
-  * Language Frameworks - PHP (Zend), JavaScript (jQuery), Java (Spring).
+  * Language Frameworks - PHP 4/5 (Zend), JavaScript (jQuery), Java (Spring).
   * Security - How to provide these services while protecting sponsors’ data.
 
 ### Language Course Abroad Ltd
@@ -111,6 +118,12 @@ My core responsibilities were to:
   * Liaise with in-house translators to translate web content for static websites.
 
 All projects required a reasonable level of web security; this is where my interest in the subject began.
+
+My work here involved the use of multiple versions of MySQL (4/5) and PHP (4/5), as well as some front-end development.
+
+### Language Summary
+
+I am proficent in C, CPP, Java 7/8 (learning 9 as we speak), SQL, JavaScript (learning TypeScript as we speak too), PHP (4/5) and Python 2/3. I'm always open to learning new languages as there is no one language that can do everything well!
 
 ### Non-subject specific work experience
 
