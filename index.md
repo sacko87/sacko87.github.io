@@ -44,11 +44,11 @@ I was the year's representative on the Staff/Research Students Consultative Comm
 
 <span class="authors">Shaw, A.L., Bordbar, B., <span class="me">Saxon, J.T.</span>, Harrison, K. and Dalton, C.I.</span>, <span class="year">2014</span>, March. <span class="title">Forensic virtual machines: dynamic defence in the cloud via introspection.</span> In <span class="in">Cloud Engineering (IC2E), 2014 IEEE International Conference on</span> (pp. 303-310). IEEE. <a href="/pdf/2014.1.pdf" class="hidden-print" title="Download PDF"><i class="fa fa-file-pdf-o"></i></a>
 
-#### MSC Computer Security <span class="date pull-right">Oct 2011 &mdash; Sep 2012</span>
+<h4 style="page-break-before: always;">MSC Computer Security <span class="date pull-right">Oct 2011 &mdash; Sep 2012</span></h4>
 
 During my summer project, I developed a malformed network packet generation framework that allowed me to craft the necessary ARP packets required to perform a man-in-the-middle attack. My framework used JavaScript, C, and the foreign function interface to allow an easily craftable packet to be placed on a low level device.
 
-<h3 style="page-break-before: always;">De Montfort University, Leicester, United Kingdom</h3>
+### De Montfort University, Leicester, United Kingdom
 
 #### BSc Software Engineering <span class="date pull-right">Oct 2005 &mdash; Aug 2009</span>
 
@@ -100,7 +100,7 @@ I was a co-business owner on a few of trials, this involved:
   
 The entire codebase was bespoke and written in the C programming language. I learnt a lot from my co-workers about writing large scale applications and the separations that should be present. This aided my move to being a core member of an R&D team aiming to provide a web-based Clinical Trial Management System (CTMS). Researching topics like:
 
-  * Service Orientated Architecture - How we could integrate legacy and third-party systems (using electronic service buses). 
+  * Service Orientated Architecture - How we could integrate legacy and third-party systems (using ESBs). 
   * Cloud Computing - How a private cloud would benefit the company.
   * Language Frameworks - PHP 4/5 (Zend), JavaScript (jQuery), Java (Spring).
   * Security - How to provide these services while protecting sponsors’ data.
