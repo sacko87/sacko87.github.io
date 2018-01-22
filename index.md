@@ -69,7 +69,7 @@ Throughout my studies we concentrated mostly on C/CPP and then built on that kno
 
 I am a freelance software developer, primarily back-end but I'm currently learning front-end development using JavaScript libraries/frameworks like React.
 
-#### Progressive Access Ltd <span class="date pull-right">Apr 2016 &mdash; Present</span>
+#### Lead Software Engineer at Progressive Access Ltd <span class="date pull-right">Apr 2016 &mdash; Present</span>
 
 I was the lead software engineer for Progressive Access Ltd. 
 The company itself had no central office and had employees scattered around the globe. We used Stack and video-conferencing to manage workloads and to discuss/synchronise with each other.
