@@ -28,7 +28,7 @@ I am a self-motivated and competent software engineer. The mixture of academic a
 
 I am a freelance software developer, primarily back-end, but I'm currently learning front-end development using JavaScript libraries/frameworks like React.
 
-#### Lead Software Engineer at Progressive Access Ltd <span class="date pull-right">Apr 2016 &mdash; Present</span>
+#### Lead Software Engineer at Progressive Access Ltd <span class="date pull-right">Apr 2015 &mdash; Present</span>
 
 I was the lead software engineer for Progressive Access Ltd. 
 The company itself had no central office and had employees scattered around the globe. We used Stack and video-conferencing to manage workloads and to discuss/synchronise with each other.
@@ -37,7 +37,7 @@ The primary goal of Progressive Access Ltd is to provide a generic workflow that
 
 ### University of Birmingham
 
-#### Senior Teaching Assistant <span class="date pull-right">Oct 2005 &mdash; Jun 2016</span>
+#### Senior Teaching Assistant <span class="date pull-right">Oct 2012 &mdash; Jun 2016</span>
 
 As a teaching assistant, I further aided in students' development through small group tutorials, marking and demonstrating in labs. As a senior teaching assistant, I would plan tutorials and exercises, and manage other tutors to provide a consistent learning platform.
 
