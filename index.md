@@ -45,7 +45,7 @@ I primarily taught security modules and large enterprise system modules (Java).
 
 I was awarded with the TA of the year for my second year of teaching.
 
-#### Demonstrator <span class="date pull-right">Jan 2012 &mdash; Apr 2012</span>
+<h4 style="page-break-before: always">Demonstrator <span class="date pull-right">Jan 2012 &mdash; Apr 2012</span></h4>
 
 Demonstrating involved facilitating students' learning by helping them help themselves to solve any issues or bugs that arose from development.
 
