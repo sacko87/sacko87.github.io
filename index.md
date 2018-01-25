@@ -116,7 +116,7 @@ I was the year's representative on the Staff/Research Students Consultative Comm
 
 <span class="authors">Shaw, A.L., Bordbar, B., <span class="me">Saxon, J.T.</span>, Harrison, K. and Dalton, C.I.</span>, <span class="year">2014</span>, March. <span class="title">Forensic virtual machines: dynamic defence in the cloud via introspection.</span> In <span class="in">Cloud Engineering (IC2E), 2014 IEEE International Conference on</span> (pp. 303-310). IEEE. <a href="/pdf/2014.1.pdf" class="hidden-print" title="Download PDF"><i class="fa fa-file-pdf-o"></i></a>
 
-<h4 style="page-break-before: always;">MSc Computer Security <span class="date pull-right">Oct 2011 &mdash; Sep 2012</span></h4>
+#### MSc Computer Security <span class="date pull-right">Oct 2011 &mdash; Sep 2012</span>
 
 During my summer project, I developed a malformed network packet generation framework that allowed me to craft the necessary ARP packets required to perform a man-in-the-middle attack. My framework used JavaScript, C, and the foreign function interface to allow an easily craftable packet to be placed on a low level device.
 
