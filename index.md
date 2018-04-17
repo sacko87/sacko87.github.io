@@ -28,6 +28,12 @@ I am a self-motivated and competent software engineer. The mixture of academic a
 
 I am a freelance software developer, primarily back-end, but I'm currently learning front-end development using JavaScript libraries/frameworks like React.
 
+#### Software Engineer - Private Contract <span class="date pull-right">Feb 2018 &mdash; Present</span>
+
+I was contracted to refactor a tactile SVG application to teach basic four-function arithmetic.
+The idea of the application was that a visually impaired user could place a tactile printout of the interface over a touchscreen and then interact with the digital version.
+The refactor involved rewriting the application, from pure JavaScript, into TypeScript with the aid of the React library for the SVG interface.
+
 #### Lead Software Engineer at Progressive Access Ltd <span class="date pull-right">Apr 2015 &mdash; Present</span>
 
 I was the lead software engineer for Progressive Access Ltd. 
