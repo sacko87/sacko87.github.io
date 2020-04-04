@@ -24,15 +24,15 @@ I am a self-motivated and competent software engineer. The mixture of academic a
 
 ## Experience
 
+### Aurora Energy Research Ltd
+
+#### Senior Software Engineer <span class="date pull-right">Jul 2019 &mdash; Present</span>
+
+#### Software Engineer <span class="date pull-right">Jun 2018 &mdash; Jul 2019</span>
+
 ### Consulting Software Engineer
 
 I am a freelance software developer, primarily back-end, but I'm currently learning front-end development using JavaScript libraries/frameworks like React.
-
-#### Software Engineer - Private Contract <span class="date pull-right">Feb 2018 &mdash; Present</span>
-
-I was contracted to refactor a tactile SVG application to teach basic four-function arithmetic.
-The idea of the application was that a visually impaired user could place a tactile printout of the interface over a touchscreen and then interact with the digital version.
-The refactor involved rewriting the application, from pure JavaScript, into TypeScript with the aid of the React library for the SVG interface.
 
 #### Lead Software Engineer at Progressive Access Ltd <span class="date pull-right">Apr 2015 &mdash; Present</span>
 
@@ -40,6 +40,12 @@ I was the lead software engineer for Progressive Access Ltd.
 The company itself had no central office and had employees scattered around the globe. We used Stack and video-conferencing to manage workloads and to discuss/synchronise with each other.
 
 The primary goal of Progressive Access Ltd is to provide a generic workflow that enables users with visual impairments to read diagrams using SVG and screen readers. This process uses a plethora of languages as each component had particular requirements, but specifically C, Java, JavaScript, Kotlin and OCaml. An essential part of this work was to be able to integrate them into a web service using the Spring Framework and to formulate microservices to complete the interpretation of different domains in a scalable manner using Amazon Web Services. We were also investigating the provision of an external API to allow clients to send diagrams to us for recognition.
+
+#### Software Engineer - Private Contract <span class="date pull-right">Feb 2018 &mdash; Apr 2018</span>
+
+I was contracted to refactor a tactile SVG application to teach basic four-function arithmetic.
+The idea of the application was that a visually impaired user could place a tactile printout of the interface over a touchscreen and then interact with the digital version.
+The refactor involved rewriting the application, from pure JavaScript, into TypeScript with the aid of the React library for the SVG interface.
 
 ### University of Birmingham
 
