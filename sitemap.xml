@@ -5,22 +5,22 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>http://sacko.uk/</loc>
+    <loc>https://sacko.uk/</loc>
     <lastmod>2015-05-20T00:13:50+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>http://sacko.uk/pdf/2014.1.pdf</loc>
+    <loc>https://sacko.uk/pdf/2014.1.pdf</loc>
     <lastmod>2015-03-13T02:11:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>http://sacko.uk/pdf/2015.1.pdf</loc>
+    <loc>https://sacko.uk/pdf/2015.1.pdf</loc>
     <lastmod>2015-03-13T02:11:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>http://sacko.uk/pdf/2015.2.pdf</loc>
+    <loc>https://sacko.uk/pdf/2015.2.pdf</loc>
     <lastmod>2015-08-06T13:36:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
