@@ -1,0 +1,24 @@
+{% if page.printable_title == null %}
+<h1>
+  <span class="hidden-print">
+    <a href="{{ site.url }}" title="Home Page"
+      ><i class="fa fa-home" aria-hidden="true"></i
+    ></a>
+    <a href="{{ site.url }}/blog.html" title="Blog"
+      ><i class="fa fa-book" aria-hidden="true"></i
+    ></a>
+  </span>
+  {{ page.title }}
+</h1>
+{% else %}
+<h1 class="hidden-print">
+  <a href="{{ site.url }}" title="Home Page"
+    ><i class="fa fa-home" aria-hidden="true"></i
+  ></a>
+  <a href="{{ site.url }}/blog.html" title="Blog"
+    ><i class="fa fa-book" aria-hidden="true"></i
+  ></a>
+  {{ page.title }}
+</h1>
+<h1 class="visible-print-block">{{ page.printable_title }}</h1>
+{% endif %}
